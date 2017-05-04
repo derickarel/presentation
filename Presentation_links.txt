@@ -1,0 +1,12 @@
+I briefly showed the anaconda website as part of an explanation of where to find/how to install Jupyter Notebooks:
+
+https://www.continuum.io/downloads
+
+I showed the Jupyter project website while describing the software and some of the languages it supports:
+
+https://nbviewer.jupyter.org/
+
+At the end of my presentatipon I showed an example of a Jupyter Notebook features LIGO data and analysis, 
+that Notebook can be found here:
+
+https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html
